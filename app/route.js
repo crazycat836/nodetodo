@@ -5,7 +5,7 @@ var Todo = require('./models/todo')
 //expose routes to app
 module.exports = function(app){
 
-//api
+//apis
 //get all todos
 app.get('/api/todos', function(req, res) {
         //use mongoose to get all todos form db
