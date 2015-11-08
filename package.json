@@ -1,14 +1,14 @@
 {
   "name"         : "node-todo",
-  "version"      : "0.0.0",
+  "version"      : "0.0.2",
   "description"  : "Simple todo application.",
   "main"         : "server.js",
-  "author"       : "cc",
+  "author"       : "crazycat836",
   "dependencies" : {
-    "express"    : "~4.7.2",
-    "mongoose"   : "~3.6.2",
-    "morgan"     : "~1.2.2",
-    "body-parser": "~1.5.2",
-    "method-override": "~2.1.2"
+    "express"    : "~4.13.3",
+    "mongoose"   : "~4.2.4",
+    "morgan"     : "~1.6.1",
+    "body-parser": "~1.14.1",
+    "method-override": "~2.3.5"
     }
 }
