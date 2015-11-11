@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/crazycat836/nodetodo.svg?branch=master)](https://travis-ci.org/crazycat836/nodetodo)
 # Node Todo App
 
 A Node app built with MongoDB and Angular.
