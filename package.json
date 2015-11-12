@@ -5,10 +5,10 @@
   "main"         : "server.js",
   "author"       : "crazycat836",
   "dependencies" : {
-    "express"    : "~4.13.3",
-    "mongoose"   : "~4.2.4",
-    "morgan"     : "~1.6.1",
-    "body-parser": "~1.14.1",
-    "method-override": "~2.3.5"
+    "express"    : "latest",
+    "mongoose"   : "latest",
+    "morgan"     : "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
     }
 }
