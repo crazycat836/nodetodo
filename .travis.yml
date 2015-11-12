@@ -2,6 +2,3 @@ language: node_js
 node_js:
   - "4.1"
 before_script:
-- mkdir -p /data/db/
-- mongod
-- node server.js
