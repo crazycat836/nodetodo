@@ -3,4 +3,5 @@ node_js:
   - "4.1"
 before_script:
 - mongod
+- sudo mkdir /data/db/
 - node server.js
