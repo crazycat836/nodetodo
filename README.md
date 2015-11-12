@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/crazycat836/nodetodo.svg?branch=master)](https://travis-ci.org/crazycat836/nodetodo)
+[![Dependency Status](https://david-dm.org/crazycat836/david-www.svg)](https://david-dm.org/crazycat836/david-www)
+[![devDependency Status](https://david-dm.org/crazycat836/david-www/dev-status.svg)](https://david-dm.org/crazycat836/david-www#info=devDependencies)
 # Node Todo App
 
 A Node app built with MongoDB and Angular.
